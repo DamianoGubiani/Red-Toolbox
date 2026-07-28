@@ -6,8 +6,6 @@
   <b>A collection of offensive security tools, research scripts, and red team tradecraft developed for learning, research</b>
 </p>
 
----
-
 ## ⚔️ About This Repository
 
 This repository contains a growing collection of **red team focused tools and research projects** developed to improve my understanding of:
@@ -25,19 +23,11 @@ The goal of this project is to document my journey into advanced offensive secur
 > **Disclaimer:**  
 > All tools and techniques contained in this repository are intended for educational purposes, security research, and authorized penetration testing environments only.
 
----
 
 # 📂 Current Projects
 
-- 🕳️ Python Codecave Injection Research Tool
+- Python Codecave Injection Research Tool
 
----
-
-# 🚧 Roadmap / To Be Added
-
-there still a lot oof tool to be added in the future so stay tuned for more
-
----
 
 # 📚 Knowledge Base
 
@@ -49,7 +39,6 @@ This repository also serves as documentation for techniques, experiments, and no
 - Malware analysis
 - Red team methodologies
 
----
 
 # 🛠️ Development Environment
 
