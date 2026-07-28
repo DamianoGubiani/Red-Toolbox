@@ -26,7 +26,7 @@ The goal of this project is to document my journey into advanced offensive secur
 
 # 📂 Current Projects
 
-- Python Codecave Injection Research Tool
+- Python Codecave Search Tool
 
 
 # 📚 Knowledge Base
