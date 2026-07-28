@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A collection of offensive security tools, research scripts, and red team tradecraft developed for learning, research, and authorized security assessments.</b>
+  <b>A collection of offensive security tools, research scripts, and red team tradecraft developed for learning, research</b>
 </p>
 
 ---
